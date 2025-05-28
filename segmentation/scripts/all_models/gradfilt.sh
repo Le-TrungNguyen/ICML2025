@@ -1,0 +1,6 @@
+bash scripts/dlv3/gradient_filter_dlv3_233.sh
+bash scripts/dlv3m/gradient_filter_dlv3m_233.sh
+bash scripts/fcn/gradient_filter_fcn_233.sh
+bash scripts/pspnet/gradient_filter_pspnet_233.sh
+bash scripts/pspnetm/gradient_filter_pspnetm_233.sh
+bash scripts/upernet/gradient_filter_upernet_233.sh
